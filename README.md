@@ -21,9 +21,9 @@
 <br/><br/>
     
 # Career 🧳
-- **Brandi** Commerce platform & Back Office *2022.03 ~ 2024.01*
+- **Brandi** Commerce platform & Back Office *2022.03 ~ *
 - **ZipDoc** O2O platform *2021.05 ~ 2022.03*
-- **BindWorks** SI Back-end, Front-end *2018.01 ~ 2021.05*
+- **BindWorks** SI Back-end, Front-end *2018.03 ~ 2021.05*
 - **Publisher Freelancer** *2017.03 ~ 2017.12*
 - **Publisher** *2011.11 ~ 2017.03*
   
